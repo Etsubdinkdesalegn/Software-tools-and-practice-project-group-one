@@ -6,8 +6,8 @@ import java.util.*;
 // Class to generate Fibonacci series
 public class Fibonacci {
 
-    /**
-     * Recursive function to calculate the nth Fibonacci number
+    /*
+      Recursive function to calculate the nth Fibonacci number
      */
     public static int fibonacciRecursion(int count) {
         // Base case: Fibonacci of 0 is 0
